@@ -1,0 +1,14 @@
+{
+    "name": "abatlleca/helloworld",
+    "description": "helloworld project",
+    "type": "project",
+    "require": {
+        "philipp15b/php-i18n": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "abatlleca",
+            "email": "abatlleca@gmail.com"
+        }
+    ]
+}
