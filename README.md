@@ -2,7 +2,9 @@
 
 ## Instal·lació en Windows:
 Per instal·lar l'aplicació en un entorn Windows, és necessari instal·lar la següent llista d'aplicacions:
-1. Paquet ![Image XAMPP](https://images.app.goo.gl/puZDfY4gYzVRfqKW9) XAMPP Apache + MariaDB + PHP + Perl
+1. Paquet XAMPP Apache + MariaDB + PHP + Perl
+   - Descarregar el fitxer d'instal·lació des de la pàgina oficial https://www.apachefriends.org/es/download.html (Triar la versió 7.4.7 / PHP 7.4.7 del llistat)
+   - Executar el fitxer un cop descarregat
 - An Apache + PHP + Mysql environment is needed (or similar)
 - Install last Composer version https://getcomposer.org/download/ 
 - Install NodeJS from https://nodejs.org/

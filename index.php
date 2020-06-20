@@ -43,13 +43,13 @@
                     <ul class="navbar-nav ml-auto">
                         <!-- Language Links -->
                         <li class="nav-item">
-                            <a class="nav-link" href="/?lang=ca">CA</a>
+                            <a class="nav-link" href="./?lang=ca">CA</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/?lang=es">ES</a>
+                            <a class="nav-link" href="./?lang=es">ES</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/?lang=en">EN</a>
+                            <a class="nav-link" href="./?lang=en">EN</a>
                         </li>
                     </ul>
                     
